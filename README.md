@@ -2,4 +2,4 @@
 
 *Name*: **Wael Boukhobza**  
 
-Takehome assignement for JPMorgan Chase & Co.
+Technical Assessment for JPMorgan Chase & Co.
